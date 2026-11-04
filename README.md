@@ -23,3 +23,4 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `word_frequency_counter.py` — counting frequencies.
 - `wrap-around-matrix.py` — handling edge cases and circular/wrap-around logic.
 - `text_decompressor.py` — reads `dataset_3363_2.txt`, restores the string, writes result to `output.txt`.
+- `most_frequent_word.py` — finds the most frequent word in 'dataset_3363_3 (1).txt'; handles ties by selecting the lexicographically first word.
