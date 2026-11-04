@@ -5,7 +5,7 @@
 
 lst = []
 d = {}
-path = r
+path = r'dataset_3363_3 (1).txt'
 with open(path, "r", encoding='utf-8') as f:
     for line in f:
         for word in line.lower().split():
