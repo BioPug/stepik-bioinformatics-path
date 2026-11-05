@@ -26,3 +26,4 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `most_frequent_word.py` — finds the most frequent word in 'dataset_3363_3 (1).txt'; handles ties by selecting the lexicographically first word.
 - - `average_scores.py` — reads `dataset_3363_4.txt` (semicolon-separated scores per applicant), writes each student's average score to `output.txt`, and adds subject averages (math, physics, Russian) as the last line.
 - `circle_perimeter.py` — calculates circle perimeter from radius using `math.pi`.
+- `print_command_line_args.py` — prints command-line arguments using `sys.argv`.
