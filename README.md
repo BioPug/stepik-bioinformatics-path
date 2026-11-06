@@ -28,3 +28,4 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `circle_perimeter.py` — calculates circle perimeter from radius using `math.pi`.
 - `print_command_line_args.py` — prints command-line arguments using `sys.argv`.
 - `count_lines_from_url.py` — counts lines in a downloaded file.
+- `linked_files_follow.py` — follows a file chain and returns the last file’s content.
