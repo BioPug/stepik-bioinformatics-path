@@ -24,11 +24,11 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `wrap-around-matrix.py` — handling edge cases and circular/wrap-around logic.
 - `text_decompressor.py` — reads `dataset_3363_2.txt`, restores the string, writes result to `output.txt`.
 - `most_frequent_word.py` — finds the most frequent word in 'dataset_3363_3 (1).txt'; handles ties by selecting the lexicographically first word.
-- - `average_scores.py` — reads `dataset_3363_4.txt` (semicolon-separated scores per applicant), writes each student's average score to `output.txt`, and adds subject averages (math, physics, Russian) as the last line.
+- `average_scores.py` — reads `dataset_3363_4.txt` (semicolon-separated scores per applicant), writes each student's average score to `output.txt`, and adds subject averages (math, physics, Russian) as the last line.
 - `circle_perimeter.py` — calculates circle perimeter from radius using `math.pi`.
 - `print_command_line_args.py` — prints command-line arguments using `sys.argv`.
 - `count_lines_from_url.py` — counts lines in a downloaded file.
 - `linked_files_follow.py` — follows a file chain and returns the last file’s content.
 - `football_standings.py` — parses match results, aggregates team stats in a dict, prints a standings table.
 - `decoder.py` — a simple substitution cipher tool that encrypts and decrypts messages using a given character mapping.
-- - `decoder.py` — spell checker based on a known-words list; prints unique misspelled words.
+- `decoder.py` — spell checker based on a known-words list; prints unique misspelled words.
