@@ -31,3 +31,4 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `linked_files_follow.py` — follows a file chain and returns the last file’s content.
 - `football_standings.py` — parses match results, aggregates team stats in a dict, prints a standings table.
 - `decoder.py` — a simple substitution cipher tool that encrypts and decrypts messages using a given character mapping.
+- - `decoder.py` — spell checker based on a known-words list; prints unique misspelled words.
