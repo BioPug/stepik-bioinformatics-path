@@ -32,3 +32,4 @@ They helped me practice core skills that are directly relevant to bioinformatics
 - `football_standings.py` — parses match results, aggregates team stats in a dict, prints a standings table.
 - `decoder.py` — a simple substitution cipher tool that encrypts and decrypts messages using a given character mapping.
 - `decoder.py` — spell checker based on a known-words list; prints unique misspelled words.
+- `turtle_path.py` — simulates a turtle's movements from a list of commands (N/S/E/W with distances) and prints its final coordinates.
